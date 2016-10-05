@@ -22,6 +22,8 @@
 		<servlet-name>SendEmailLetters</servlet-name>
 		<url-pattern>/sendEmail</url-pattern>
 	</servlet-mapping>
+	<absolute-ordering/>
+	
 	<welcome-file-list>
 		<welcome-file>index.jsp</welcome-file>
 	</welcome-file-list>
